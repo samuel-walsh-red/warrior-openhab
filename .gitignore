@@ -4,3 +4,4 @@ build*/tmp
 build*/pyshtables.py
 build*/bitbake-cookerdaemon.log
 build*/cache
+bitbake/lib/bb/pysh/pyshtables.py
