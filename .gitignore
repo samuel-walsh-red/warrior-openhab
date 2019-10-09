@@ -1,3 +1,6 @@
-build/sstate-cache
-build/downloads
-build/tmp
+build*/sstate-cache
+build*/downloads
+build*/tmp
+build*/pyshtables.py
+build*/bitbake-cookerdaemon.log
+build*/cache
